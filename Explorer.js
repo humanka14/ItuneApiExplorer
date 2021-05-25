@@ -73,4 +73,3 @@ function displayArtistData() {
   sheet.getRange(15,5,500,1).setHorizontalAlignment("center");
   sheet.getRange(15,2,len,3).setWrap(true);
   
-}
